@@ -1,6 +1,6 @@
 # RouteMe
 
-(assets/routeme-demo.gif)
+(https://github.com/AhadCove/routeme/blob/master/assets/routeme-demo.gif)
 
 ## Setup Config
 First run yarn or npm i
