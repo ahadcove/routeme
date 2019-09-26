@@ -1,6 +1,6 @@
 # RouteMe
 
-![Getting Api Key](assets/routeme-demo.mp4 "Getting Api Key")
+![Getting Api Key](https://github.com/rcarmier/routeme/blob/master/assets/routeme-demo.gif "Getting Api Key")
 
 ## Setup Config
 First run yarn or npm i
