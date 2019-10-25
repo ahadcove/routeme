@@ -1,7 +1,6 @@
 # RouteMe
 
-
-![Alt Text](https://github.com/AhadCove/routeme/blob/master/assets/routeme-demo.gif)
+![Getting Api Key](assets/routeme-demo.gif "Getting Api Key")
 
 ## Setup Config
 First run yarn or npm i
