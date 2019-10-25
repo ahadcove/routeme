@@ -3,8 +3,10 @@
 ![Getting Api Key](assets/routeme-demo.gif "Getting Api Key")
 
 ## Setup Config
-First run yarn or npm i
+First run `yarn` or `npm i`
+
 Rename `config.example.js` to `config.js`
+
 Next enter your `email`, `username`, and `password` that you'll be using to listen to the emails and send your the directions inside `config.js`
 
 ## Getting your API Key from Google
