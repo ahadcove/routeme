@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@google/maps@^1.0.1":
+"@google/maps@1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@google/maps/-/maps-1.0.1.tgz#e0f4b32119500ff3b92c47028623208f3b3d5d43"
   integrity sha512-TURNZX9L7pQoluhhovt9Dvrw1MISJl2eCidknEeybG8T8e8UH9NNH7SYoxLkdU4l/1sqyUd9m8uwKGe7llWWPQ==
@@ -166,7 +166,7 @@ lodash@^4.17.11:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
-mail-listener2@^0.3.1:
+mail-listener2@0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/mail-listener2/-/mail-listener2-0.3.1.tgz#1814497d9632fd8eaf4e3cb083aa90129661fa89"
   integrity sha1-GBRJfZYy/Y6vTjywg6qQEpZh+ok=
@@ -199,23 +199,23 @@ mimelib@>=0.2.17:
     encoding "~0.1.12"
 
 minimist@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
-  integrity sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ=
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
+  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
 
 ms@^2.1.1:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
   integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
 
-nodemailer-html-to-text@^3.1.0:
+nodemailer-html-to-text@3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/nodemailer-html-to-text/-/nodemailer-html-to-text-3.1.0.tgz#11e4e435eb03e4f3b439aaf294b1bd1377e7f789"
   integrity sha512-AijyAZgcFb6b53g1oMwdCKyLYQVJzbgZKbs3Bma8zR5hPR1gkajQKGGZbwtuA5JhUqnyC8pjp+tiaS7CkQ8TRg==
   dependencies:
     html-to-text "^5.1.1"
 
-nodemailer@^6.3.0:
+nodemailer@6.3.0:
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.3.0.tgz#a89b0c62d3937bdcdeecbf55687bd7911b627e12"
   integrity sha512-TEHBNBPHv7Ie/0o3HXnb7xrPSSQmH1dXwQKRaMKDBGt/ZN54lvDVujP6hKkO/vjkIYL9rK8kHSG11+G42Nhxuw==
