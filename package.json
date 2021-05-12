@@ -12,7 +12,7 @@
   "dependencies": {
     "@google/maps": "1.0.1",
     "mail-listener2": "0.3.1",
-    "nodemailer": "6.3.0",
+    "nodemailer": "6.4.16",
     "nodemailer-html-to-text": "3.1.0"
   }
 }
